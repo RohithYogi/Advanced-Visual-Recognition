@@ -1,1 +1,1 @@
-![alt text](./VGGNet.png?raw=true)
+![alt text](./Layer.png?raw=true)
